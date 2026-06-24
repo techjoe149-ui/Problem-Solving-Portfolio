@@ -2,7 +2,7 @@
 
 # PROBLEM SOLVING PORTFOLIO 
 
-This repository contains business analysis case studies amd software solutions developed up to this point using Pythin and git skills 
+This repository contains real-world business analysis case studies and software solutions developed up to this point using Python and git skills 
 
 
 
