@@ -1,6 +1,14 @@
+Business Type : 
+Location : Kisumu county 
+Observation method : on-site observation & owner interview.
+
+Date : 20th june 2026 
+
+Business name : withheld for privacy 
+
  PROBLEM 
 
-A business has  a total of four workers : the manager and three employees .
+This business has  a total of four workers : the manager and three employees .
 The manager assigns tasks everyday such as : website update , fix printer , software install .
 
 Problem occurs when after  two days , nobody remembers who was assigned what and the manager repeatedly asked for updates .  
